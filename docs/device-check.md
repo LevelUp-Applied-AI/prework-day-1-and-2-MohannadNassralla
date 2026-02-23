@@ -23,7 +23,8 @@
 ## Evidence Checklist
 
 - [ ] Screenshot: OS version
-- [ ] Screenshot: RAM and CPU details
+- [ ] Screenshot: RAM and CPU details<img width="614" height="266" alt="C" src="https://github.com/user-attachments/assets/07e9ac3e-d952-4f46-a577-1bc7a085c50e" />
+
 - [ ] Screenshot: Free disk space
 - [ ] Screenshot: Internet speed test result
 - [ ] Screenshot: Admin rights confirmed
