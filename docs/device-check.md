@@ -1,8 +1,8 @@
-# Device Check — [Your Name]
+# Device Check — [mohannad nassrallah]
 
 **Program:** AI.SPIRE Pre-Work
-**Date completed:** [YYYY-MM-DD]
-**GitHub username:** [your-github-username]
+**Date completed:** [23-02-2026]
+**GitHub username:** [mohannadnassrallah]
 
 ---
 
@@ -23,7 +23,9 @@
 ## Evidence Checklist
 
 - [ ] Screenshot: OS version
-- [ ] Screenshot: RAM and CPU details
+- [ ] Screenshot: RAM and CPU de<img width="614" height="266" alt="C" src="https://github.com/user-attachments/assets/7d7de158-22a8-43d0-a213-eb04c85f1f1d" />
+<img width="614" height="266" alt="C" src="https://github.com/user-attachments/assets/7d7de158-22a8-43d0-a213-eb04c85f1f1d" />
+tails
 - [ ] Screenshot: Free disk space
 - [ ] Screenshot: Internet speed test result
 - [ ] Screenshot: Admin rights confirmed
