@@ -12,9 +12,9 @@ Run `git config --list` in your terminal and fill in your configured values:
 
 | Config key | Your value |
 |------------|------------|
-| `Mohannad Nassrallah` | |
-| `mohannadnassrallah@gmail.com` | |
-| `true` | |
+|`user.name`| `Mohannad Nassrallah`  |
+|`user.email` | `mohannadnassrallah@gmail.com`  |
+| `core.autocrlf`| `true` | 
 
 ---
 
