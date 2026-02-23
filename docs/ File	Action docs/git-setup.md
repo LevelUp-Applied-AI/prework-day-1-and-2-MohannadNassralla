@@ -1,17 +1,41 @@
-$ git config --list
-diff.astextplain.textconv=astextplain
-filter.lfs.clean=git-lfs clean -- %f
-filter.lfs.smudge=git-lfs smudge -- %f
-filter.lfs.process=git-lfs filter-process
-filter.lfs.required=true
-http.sslbackend=schannel
-core.autocrlf=true
-core.fscache=true
-core.symlinks=false
-pull.rebase=false
-credential.helper=manager
-credential.https://dev.azure.com.usehttppath=true
-init.defaultbranch=master
-user.name=Mohannad Nassrallah
-user.email=mohannadnassrallah@gmail.com
-core.autocrlf=true
+# Git Setup Log — MohannadNassralla
+
+**Program:** AI.SPIRE Pre-Work
+**Date completed:** [23-02-2026]
+**GitHub username:** [Mohannad Nassralla]
+
+---
+
+## Git Identity
+
+Run `git config --list` in your terminal and fill in your configured values:
+
+| Config key | Your value |
+|------------|------------|
+| `Mohannad Nassrallah` | |
+| `mohannadnassrallah@gmail.com` | |
+| `true` | |
+
+---
+
+## Platform
+
+| Field | Your value |
+|-------|------------|
+| Operating system | (e.g., Windows 11, macOS 14.4, Ubuntu 22.04) |
+| Terminal used | (e.g., Git Bash, macOS Terminal, bash on Ubuntu) |
+| Git version (`git --version`) | |
+
+---
+
+## Authentication
+
+- [ ] Personal Access Token created in GitHub Settings
+- [ ] PAT stored securely (password manager or secure notes)
+- [ ] Credential caching confirmed — Git does not re-prompt on push
+
+---
+
+## Clone Verification
+
+After cloning, output of `git status` from inside your repo:
