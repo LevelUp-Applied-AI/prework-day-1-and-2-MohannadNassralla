@@ -10,29 +10,30 @@
 
 | Specification | Your value |
 |---------------|------------|
-| Operating System | (e.g., Windows 11 22H2, macOS 14.4, Ubuntu 22.04) |
-| OS Build / Version | |
-| RAM | (e.g., 16 GB) |
-| CPU Model | (e.g., Intel Core i7-12700H, Apple M2) |
+| Operating System | Windows 10pro |
+| OS Build / Version | 64bit|
+| RAM |  10 GB |
+| CPU Model |  Intel(R) pentium(R) CPU B940 |
 | CPU Cores | |
-| Free Disk Space | (e.g., 45 GB free) |
-| Internet Speed (Download) | (from speedtest.net — Mbps) |
+| Free Disk Space |  100 GB free |
+| Internet Speed (Download) | 5m |
 
 ---
 
 ## Evidence Checklist
+<img width="849" height="163" alt="Ca" src="https://github.com/user-attachments/assets/ce819818-6afc-4f40-be27-c2cdd5199515" />
+<img width="728" height="708" alt="zz" src="https://github.com/user-attachments/assets/67ca11e0-3c8b-4140-9668-e1b4af0240a9" />
+<img width="585" height="327" alt="xx" src="https://github.com/user-attachments/assets/dafcd576-3430-4a59-8187-378e664cb640" />
 
-- [ ] Screenshot: OS version
-- [ ] Screenshot: RAM and CPU de<img width="614" height="266" alt="C" src="https://github.com/user-attachments/assets/7d7de158-22a8-43d0-a213-eb04c85f1f1d" />
-<img width="614" height="266" alt="C" src="https://github.com/user-attachments/assets/7d7de158-22a8-43d0-a213-eb04c85f1f1d" />
-tails
-- [ ] Screenshot: Free disk space
-- [ ] Screenshot: Internet speed test result
-- [ ] Screenshot: Admin rights confirmed
+<img width="683" height="352" alt="xxx" src="https://github.com/user-attachments/assets/e46ff6ec-4b99-4745-9bca-10e14a42a1a9" />
+
+<img width="231" height="42" alt="Cap" src="https://github.com/user-attachments/assets/4f3e0dbb-de13-4c0b-8e81-621e4f1967cc" />
+
 
 **Windows only:**
-- [ ] Screenshot: `wsl -l -v` output showing WSL 2
-- [ ] Screenshot: `wsl --status` output
+<img width="772" height="622" alt="Capt" src="https://github.com/user-attachments/assets/96ccb3ea-a127-49ac-9a77-10fb13ebdcb5" />
+
+
 
 ---
 
