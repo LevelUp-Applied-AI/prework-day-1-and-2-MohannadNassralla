@@ -24,7 +24,7 @@ Run `git config --list` in your terminal and fill in your configured values:
 |-------|------------|
 | Operating system |  Windows 10 Pro |
 | Terminal used | Git Bash |
-| Git version (Git-2.53.0) | |
+| Git version  |Git-2.53.0 |
 
 ---
 
