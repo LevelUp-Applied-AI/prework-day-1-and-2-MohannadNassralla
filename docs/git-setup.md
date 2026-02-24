@@ -22,9 +22,9 @@ Run `git config --list` in your terminal and fill in your configured values:
 
 | Field | Your value |
 |-------|------------|
-| Operating system | (e.g., Windows 11, macOS 14.4, Ubuntu 22.04) |
-| Terminal used | (e.g., Git Bash, macOS Terminal, bash on Ubuntu) |
-| Git version (`git --version`) | |
+| Operating system |  Windows 10 Pro |
+| Terminal used | Git Bash |
+| Git version (Git-2.53.0) | |
 
 ---
 
